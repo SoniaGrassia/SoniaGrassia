@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there,+I'm+Sonia!" alt="Typing SVG" /></a>
+  <img src="https://media.giphy.com/media/KD0KDktFx7tjPBaKq9/giphy.gif" width="100"/>
+</div>
+
 
 <!--
 **SoniaGrassia/SoniaGrassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
