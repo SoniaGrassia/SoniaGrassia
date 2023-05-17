@@ -1,8 +1,11 @@
 <div id="header" align="center">
-  <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=335&lines=Hi+there,+I'm+Sonia!" alt="Typing SVG" /><img src="https://media.giphy.com/media/KD0KDktFx7tjPBaKq9/giphy.gif" width="70"/></h1>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=335&lines=Hi+there,+I'm+Sonia!" alt="Typing SVG" /><img src="https://media.giphy.com/media/KD0KDktFx7tjPBaKq9/giphy.gif" width="70"/>
 </div>
-
-
+<hr>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div>
+<br>
 <h2>:woman_technologist: About Me :</h2>
 - :computer: I'm a Front-end Developer <br>
 - 👀 UX/UI enthusiast <br>
@@ -10,7 +13,7 @@
 - :rocket: Always ready to collaborate for Dev Experiments <br>
 - :dart: Life Hack: "Learn the rules like a pro, so you can break them like an artist"<br>
 - :zap: Fun fact: I have a master's degree in Digital Humanities<br>
-
+<br>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
